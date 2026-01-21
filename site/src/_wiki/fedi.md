@@ -91,6 +91,7 @@ moderação são:
 - [corteximplant.com](https://corteximplant.com/) (para interessados em cyberpunk) (glitch-soc)
 - [mastodon.gamedev.place](https://mastodon.gamedev.place/) (para desenvolvedores de jogos) (Mastodon vanilla)
 - [ursal.zone](https://ursal.zone/) (instância brasileira) (Mastodon vanilla)
+- [organica.social](https://organica.social/about) (instância brasileira) (Mastodon vanilla)
 - [floss.social](https://floss.social/) (para grupos, instituições e empresas FLOSS) (Mastodon vanilla)
 
 \*Lembre-se que você pode seguir contas de outras instâncias, mas a escolha
