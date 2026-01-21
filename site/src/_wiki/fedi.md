@@ -7,35 +7,10 @@ lang: pt-BR
 
 Conheça e aprenda a usar o Mastodon e outras redes do Fediverso.
 
-<blockquote>
-  <p><strong>Índice:</strong></p>
+> **Índice:**
+> * Do not remove this line (it will not be displayed)
+> {:toc}
 
-<ol id="markdown-toc">
-  <li><a href="#o-que-é-o-fediverso" id="markdown-toc-o-que-é-o-fediverso">O que é o Fediverso?</a></li>
-  <li><a href="#por-que-descentralização-é-importante" id="markdown-toc-por-que-descentralização-é-importante">Por que descentralização é importante?</a></li>
-  <li><a href="#mastodon" id="markdown-toc-mastodon">Mastodon</a></li>
-  <li><a href="#gostei-que-instância-devo-escolher" id="markdown-toc-gostei-que-instância-devo-escolher">Gostei! Que instância devo escolher?</a></li>
-  <li><a href="#e-depois-como-encontro-gente-para-seguir" id="markdown-toc-e-depois-como-encontro-gente-para-seguir">E depois? Como encontro gente para seguir?</a></li>
-  <li><a href="#como-faço-para-seguir-o-gelos" id="markdown-toc-como-faço-para-seguir-o-gelos">Como faço para seguir o GELOS?</a></li>
-  <li><a href="#é-isso-dúvidas" id="markdown-toc-é-isso-dúvidas">É isso! Dúvidas?</a></li>
-  <li><a href="#quero-me-aprofundar-mais" id="markdown-toc-quero-me-aprofundar-mais">Quero me aprofundar mais</a>    <ol>
-      <li><a href="#quais-são-os-outros-tipos-de-redes-sociais-no-fediverso" id="markdown-toc-quais-são-os-outros-tipos-de-redes-sociais-no-fediverso">Quais são os outros tipos de redes sociais no Fediverso?</a>        <ol>
-          <li><a href="#sharkey" id="markdown-toc-sharkey">Sharkey</a></li>
-          <li><a href="#mbin" id="markdown-toc-mbin">Mbin</a></li>
-          <li><a href="#pixelfed" id="markdown-toc-pixelfed">Pixelfed</a></li>
-          <li><a href="#loops" id="markdown-toc-loops">Loops</a></li>
-          <li><a href="#peertube" id="markdown-toc-peertube">PeerTube</a></li>
-        </ol>
-      </li>
-      <li><a href="#o-que-é-desfederação" id="markdown-toc-o-que-é-desfederação">O que é desfederação?</a></li>
-      <li><a href="#mas-e-o-self-hosting" id="markdown-toc-mas-e-o-self-hosting">Mas e o self-hosting?</a></li>
-      <li><a href="#quero-aprender-como-o-activitypub-funciona-e-como-ter-minha-própria-instância" id="markdown-toc-quero-aprender-como-o-activitypub-funciona-e-como-ter-minha-própria-instância">Quero aprender como o ActivityPub funciona e como ter minha própria instância</a></li>
-    </ol>
-  </li>
-  <li><a href="#feedback" id="markdown-toc-feedback">Feedback</a></li>
-</ol>
-
-</blockquote>
 
 ## O que é o Fediverso?
 
@@ -102,10 +77,12 @@ toots com emojis (incluindo emojis personalizados de cada instância) e ter toot
 Recomendamos o Mastodon, especialmente os forks mencionados, para a maioria das pessoas que
 quiserem uma esperiência simples, completa, fácil de usar e sem complicações.
 
-## Gostei! Que instância devo escolher?
+## Gostei! Por onde começar? Que instância devo escolher?
+
+Para começar, é só escolgher uma instância e criar uma conta nela!
 
 Algumas insâncias do Fediverso conhecidas por boas praticas de
-moderação e que reunem fãs de software livre são:
+moderação são:
 
 - [wetdry.world](https://wetdry.world/) (para jogos, tecnologia, pessoas LGBT+, etc) (Chuckya)
 - [tech.lgbt](https://tech.lgbt/) (para pessoas LGBT+ interessadas em tecnologia) (glitch-soc)
@@ -114,9 +91,10 @@ moderação e que reunem fãs de software livre são:
 - [corteximplant.com](https://corteximplant.com/) (para interessados em cyberpunk) (glitch-soc)
 - [mastodon.gamedev.place](https://mastodon.gamedev.place/) (para desenvolvedores de jogos) (Mastodon vanilla)
 - [ursal.zone](https://ursal.zone/) (instância brasileira) (Mastodon vanilla)
+- [organica.social](https://organica.social/about) (instância brasileira) (Mastodon vanilla)
 - [floss.social](https://floss.social/) (para grupos, instituições e empresas FLOSS) (Mastodon vanilla)
 
-*Lembre-se que você pode seguir contas de outras instâncias, mas a escolha
+\*Lembre-se que você pode seguir contas de outras instâncias, mas a escolha
 ainda é importante: ela facilita encontrar as primeiras pessoas com interesses
 similares aos seus, por causa da timeline local. Pode ser interessante dar uma olhada
 na timeline local da instância desejada antes de se inscrever, se for pública.  
@@ -305,7 +283,7 @@ seus próprios toots e será preciso esforço extra para encontrar pessoas.
 
 Tecnicamente falando, um toot público só é entregue (federado) para outra instância quando há motivo para envio. Por exemplo, se um usuário dessa
 instância segue o autor, a instância original envia os toots para as instâncias dos seguidores, ou se alguém em outra instância que tem seguidores faz
-um “boost” (republica) do toot, essa atividade é então entregue aos seguidores dessa pessoa e pode aparecer nas instâncias deles. 
+um “boost” do toot, essa atividade é então entregue aos seguidores dessa pessoa e pode aparecer nas instâncias deles. 
 Nem toda instância recebe todos os toots públicos, o que limita para você a visibilidade de contas que você não segue na sua instância.
 
 Por isso, caso você tenha interesse em self-hostear, é interessante começar primeiro em uma instância pública que tenha interesse, começar a conhecer e seguir
@@ -326,6 +304,6 @@ sobre Fediverso e ActivityPub, sinta-se livre para participar no nosso [Telegram
 ## Feedback
 
 Essa página tem como objetivo ser um guia simples, com as informações mais importantes para o uso do Fediverso por um usuário comum, mas como nerds às vezes
-nos empolgamos e podemos deixar as coisas mais complicadas que elas de fato são. Por favor compartlhe suas sugestões conosco em nosso [Telegrasm](https://telegram.gelos.club)
+nos empolgamos e podemos deixar as coisas mais complicadas que elas de fato são. Por favor compartlhe suas sugestões conosco em nosso [Telegram](https://telegram.gelos.club)
 
 Tentamos manter a página sempre atualizada e melhora-la frequentemente, caso ache algum problema ou tenha alguma sugestão por favor nos avise!
