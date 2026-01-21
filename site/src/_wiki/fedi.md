@@ -326,6 +326,6 @@ sobre Fediverso e ActivityPub, sinta-se livre para participar no nosso [Telegram
 ## Feedback
 
 Essa página tem como objetivo ser um guia simples, com as informações mais importantes para o uso do Fediverso por um usuário comum, mas como nerds às vezes
-nos empolgamos e podemos deixar as coisas mais complicadas que elas de fato são. Por favor compartlhe suas sugestões conosco em nosso [Telegrasm](https://telegram.gelos.club)
+nos empolgamos e podemos deixar as coisas mais complicadas que elas de fato são. Por favor compartlhe suas sugestões conosco em nosso [Telegram](https://telegram.gelos.club)
 
 Tentamos manter a página sempre atualizada e melhora-la frequentemente, caso ache algum problema ou tenha alguma sugestão por favor nos avise!
