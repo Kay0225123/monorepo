@@ -14,7 +14,7 @@ Conheça e aprenda a usar o Mastodon e outras redes do Fediverso.
   <li><a href="#o-que-é-o-fediverso" id="markdown-toc-o-que-é-o-fediverso">O que é o Fediverso?</a></li>
   <li><a href="#por-que-descentralização-é-importante" id="markdown-toc-por-que-descentralização-é-importante">Por que descentralização é importante?</a></li>
   <li><a href="#mastodon" id="markdown-toc-mastodon">Mastodon</a></li>
-  <li><a href="#gostei-que-instância-devo-escolher" id="markdown-toc-gostei-que-instância-devo-escolher">Gostei! Que instância devo escolher?</a></li>
+  <li><a href="#gostei-por-onde-começar-que-instância-devo-escolher" id="markdown-toc-gostei-por-onde-começar-que-instância-devo-escolher">Gostei! Por onde começar? Que instância devo escolher?</a></li>
   <li><a href="#e-depois-como-encontro-gente-para-seguir" id="markdown-toc-e-depois-como-encontro-gente-para-seguir">E depois? Como encontro gente para seguir?</a></li>
   <li><a href="#como-faço-para-seguir-o-gelos" id="markdown-toc-como-faço-para-seguir-o-gelos">Como faço para seguir o GELOS?</a></li>
   <li><a href="#é-isso-dúvidas" id="markdown-toc-é-isso-dúvidas">É isso! Dúvidas?</a></li>
@@ -102,10 +102,12 @@ toots com emojis (incluindo emojis personalizados de cada instância) e ter toot
 Recomendamos o Mastodon, especialmente os forks mencionados, para a maioria das pessoas que
 quiserem uma esperiência simples, completa, fácil de usar e sem complicações.
 
-## Gostei! Que instância devo escolher?
+## Gostei! Por onde começar? Que instância devo escolher?
+
+Para começar, é só escolgher uma instância e criar uma conta nela!
 
 Algumas insâncias do Fediverso conhecidas por boas praticas de
-moderação e que reunem fãs de software livre são:
+moderação são:
 
 - [wetdry.world](https://wetdry.world/) (para jogos, tecnologia, pessoas LGBT+, etc) (Chuckya)
 - [tech.lgbt](https://tech.lgbt/) (para pessoas LGBT+ interessadas em tecnologia) (glitch-soc)
@@ -116,7 +118,7 @@ moderação e que reunem fãs de software livre são:
 - [ursal.zone](https://ursal.zone/) (instância brasileira) (Mastodon vanilla)
 - [floss.social](https://floss.social/) (para grupos, instituições e empresas FLOSS) (Mastodon vanilla)
 
-*Lembre-se que você pode seguir contas de outras instâncias, mas a escolha
+\*Lembre-se que você pode seguir contas de outras instâncias, mas a escolha
 ainda é importante: ela facilita encontrar as primeiras pessoas com interesses
 similares aos seus, por causa da timeline local. Pode ser interessante dar uma olhada
 na timeline local da instância desejada antes de se inscrever, se for pública.  
@@ -305,7 +307,7 @@ seus próprios toots e será preciso esforço extra para encontrar pessoas.
 
 Tecnicamente falando, um toot público só é entregue (federado) para outra instância quando há motivo para envio. Por exemplo, se um usuário dessa
 instância segue o autor, a instância original envia os toots para as instâncias dos seguidores, ou se alguém em outra instância que tem seguidores faz
-um “boost” (republica) do toot, essa atividade é então entregue aos seguidores dessa pessoa e pode aparecer nas instâncias deles. 
+um “boost” do toot, essa atividade é então entregue aos seguidores dessa pessoa e pode aparecer nas instâncias deles. 
 Nem toda instância recebe todos os toots públicos, o que limita para você a visibilidade de contas que você não segue na sua instância.
 
 Por isso, caso você tenha interesse em self-hostear, é interessante começar primeiro em uma instância pública que tenha interesse, começar a conhecer e seguir
