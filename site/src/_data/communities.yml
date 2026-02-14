@@ -44,12 +44,12 @@
 
 # Grupos locais (São Carlos)
 
-- name: SancaLUG
-  description: Grupo de Usuários de Linux da cidade de São Carlos-SP.
+- name: PATOS
+  description: Grupo de open source da UFScar.
   links:
-    Telegram: https://t.me/sancaLUG
-    Website: https://sancalug.github.io
-    GitHub: https://github.com/sancaLUG
+    Website: https://patos.dev
+    GitHub: https://github.com/patos-ufscar/
+    Discord: https://discord.gg/Yx6beJRp
 
 # Comunidades brasileiras oficiais/principais de um projeto FLOSS
 # Deve ser oficial e/ou ser a única comunidade brasileira relevante daquele projeto
@@ -113,6 +113,11 @@
   links:
     Telegram: https://t.me/kdebrasil
 
+- name: Linux Mint Brasil (Telegram)
+  description: Grupo no Telegram sobre Linux Mint.
+  links:
+    Telegram: https://t.me/lmbrasil
+
 - name: Arch Linux Brasil (Telegram)
   description: Grupo no Telegram sobre Arch Linux.
   links:
@@ -123,6 +128,11 @@
   links:
     Telegram: https://t.me/riscvbr
 
+- name: Hardware Hacking Brasil (Telegram)
+  description: Grupo no Telegram sobre Hardware Hacking.
+  links:
+    Telegram: https://t.me/hardwareHackingBrasil
+    
 - name: Debian BR (Telegram)
   description: Grupo criado para conversármos sobre Debian, raspberry, música, e outros temas!
   links:
